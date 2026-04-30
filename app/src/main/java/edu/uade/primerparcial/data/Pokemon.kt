@@ -1,6 +1,6 @@
 package edu.uade.primerparcial.data
 
-// Separamos Pokemon y el repositorio en data porque ambos son "datos puros"
+// Separo Pokemon y el repositorio en data porque ambos son "datos puros"
 // Pokemon es solo un modelo, no sabe nada de pantallas ni logica
 // Separando por responsabilidad, Pokemon.kt es solo el modelo y
 // Solo cambia si el objeto Pokemon necesita un nuevo dato

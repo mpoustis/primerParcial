@@ -1,6 +1,6 @@
 package edu.uade.primerparcial.data
 
-// Separamos Pokemon y el repositorio acá porque ambos son "datos puros"
+// Separo Pokemon y el repositorio acá porque ambos son "datos puros"
 // PokemonRepository se encarga unicamente de donde vienen los datos
 // Si mañana se cambia a una API real, solo tocamos este archivo
 // Es decir, cambio la fuente sin tocar la definicion del objeto
